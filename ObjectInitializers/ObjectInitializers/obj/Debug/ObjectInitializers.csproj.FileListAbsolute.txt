@@ -1,0 +1,6 @@
+Z:\ObjectInitializers\ObjectInitializers\bin\Debug\ObjectInitializers.exe.config
+Z:\ObjectInitializers\ObjectInitializers\bin\Debug\ObjectInitializers.exe
+Z:\ObjectInitializers\ObjectInitializers\bin\Debug\ObjectInitializers.pdb
+Z:\ObjectInitializers\ObjectInitializers\obj\Debug\ObjectInitializers.csprojResolveAssemblyReference.cache
+Z:\ObjectInitializers\ObjectInitializers\obj\Debug\ObjectInitializers.exe
+Z:\ObjectInitializers\ObjectInitializers\obj\Debug\ObjectInitializers.pdb
